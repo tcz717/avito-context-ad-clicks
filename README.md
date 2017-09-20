@@ -11,6 +11,6 @@ In this competition, Avito is challenging you to improve on their model by pred
 
 ## Team members
 - @tcz
-- @@jackfuyanlu 
+- @jackfuyanlu 
 - @R_Joey
 - Chichun Lu
