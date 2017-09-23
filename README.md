@@ -13,4 +13,4 @@ In this competition, Avito is challenging you to improve on their model by pred
 - @tcz
 - @jackfuyanlu 
 - @R_Joey
-- Chichun Lu
+- @LuCC
